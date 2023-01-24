@@ -1,0 +1,8 @@
+{
+    "user" : "antan", 
+    "password" : "example",
+    "host" : "localhost", 
+    "port" : "3307",
+    "database" : "chu_api",
+    "raise_on_warnings" : true
+}
