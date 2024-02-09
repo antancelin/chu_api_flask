@@ -1,13 +1,13 @@
-# Brief CHU x API
+# API x CHU
 
 ## Réalisation d'une API via Flask permettant d'afficher, modifier, ajouter ou supprimer des données d'une base de données MySQL.
-__________
+
 ### 1ère étape :
-* Créer 2 tables MySQL via phpMyAdmin : "materiel" & "employe"
-* Peupler les tables à l'aide du script 'populateTables.py' qui insérera les données contenues dans 'data.json'.
-__________
+* Création de deux tables MySQL via phpMyAdmin : 'materiel' & 'employe'.
+* Remplissage des tables à l'aide du script 'populateTables.py' qui insérera les données contenues dans 'data.json'.
+
 ### 2ème étape :
-* Réaliser une API Rest via Flask qui permettra de réaliser un CRUD sur vos  "materiel" & "employe".
-__________
+* Réalisation d'une API Rest via Flask, permettant de réaliser un CRUD sur les tables 'materiel' & 'employe'.
+
 ### 3ème étape :
-* Réaliser des tests via Postman.
+* Réalisation de tests via Postman.
